@@ -21,7 +21,7 @@ I'm **Manoj L**, a Full Stack Developer passionate about building modern web app
 
 
 <summary><h2>🛠 Tech Stack</h2></summary>
-<details>### Frontend
+### Frontend
 - HTML5
 - CSS3
 - Tailwind CSS
