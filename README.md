@@ -1,24 +1,12 @@
 # 🚀 MANOJ L
-
 ### Full Stack Developer • JavaScript Engineer • Building Production-Ready Web Applications
 
-> *"Crafting scalable products with clean architecture, performance-first thinking, and exceptional user experiences."*
+> *Crafting scalable products with clean architecture, performance-first thinking, and exceptional user experiences.*
 
 ---
 
 ## 🎯 About
-
 I'm **Manoj L**, a Full Stack Developer passionate about building modern web applications that combine beautiful interfaces with scalable backend systems.
-
-My focus is not just writing code—but building products that are:
-
-- Fast
-- Maintainable
-- Secure
-- Scalable
-- User-centric
-
-Currently expanding my expertise across the complete Full Stack ecosystem while continuously improving problem-solving and software engineering fundamentals.
 
 ---
 
@@ -31,121 +19,153 @@ Currently expanding my expertise across the complete Full Stack ecosystem while 
 
 ---
 
-# ⚡ Engineering Capabilities
+<details>
+<summary><h2>🛠 Tech Stack</h2></summary>
 
-## Frontend
+### Frontend
 - HTML5
 - CSS3
 - Tailwind CSS
-- JavaScript (ES6+)
+- JavaScript
 - React.js
 - GSAP
 - Framer Motion
-- Responsive Design
-- Component Architecture
 
-## Backend
+### Backend
 - Node.js
 - Express.js
 - REST APIs
 - MVC Architecture
-- Middleware
-- Authentication
-- Authorization
+- Authentication & Authorization
 - JWT
-- Cookies
-- Session Management
 
-## Databases
+### Databases
 - MongoDB
 - MySQL
 - PostgreSQL
 
-## Production Features
-- Authentication & Authorization
-- CRUD Operations
-- Search
-- Filter
-- Sort
-- Pagination
-- Debounced Search
-- File Uploads
-- Responsive Design
-- Accessibility Basics
-- Role-Based Access Control
-- Optimized Database Queries
-- Caching
-- Secure APIs
-- Proper Validation
-- Comprehensive Error Handling
-- Logging
-- Testing Critical Flows
-- Environment Variables
-- Deployment
-- Custom Domain & HTTPS
-- Professional Documentation
-- Clean Git History
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+</details>
 
 ---
 
-# 🛠 Tech Stack
+<details>
+<summary><h2>⚡ Engineering Capabilities</h2></summary>
 
-| Area | Technologies |
-|------|--------------|
-| Languages | JavaScript, HTML5, CSS3 |
-| Frontend | React, Tailwind CSS, GSAP, Framer Motion |
-| Backend | Node.js, Express.js |
-| Databases | MongoDB, MySQL, PostgreSQL |
-| Tools | Git, GitHub, VS Code, Postman |
+- ✅ CRUD Operations
+- ✅ Search
+- ✅ Filter
+- ✅ Sort
+- ✅ Pagination
+- ✅ Debounced Search
+- ✅ File Uploads
+- ✅ Responsive Design
+- ✅ Accessibility Basics
+- ✅ Role-Based Access
+- ✅ Optimized Database Queries
+- ✅ Caching
+- ✅ Secure APIs
+- ✅ Proper Validation
+- ✅ Error Handling
+- ✅ Logging
+- ✅ Environment Variables
+- ✅ Deployment
+- ✅ Custom Domain & HTTPS
+- ✅ Professional Documentation
+- ✅ Clean Git History
+
+</details>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎬 Movie Recommendation Platform
-- React Architecture
-- REST API Integration
+<details>
+<summary><b>🎬 Movie Recommendation Platform</b></summary>
+
+### Stack
+- React
+- Tailwind CSS
+- REST APIs
+
+### Highlights
 - Dynamic Search
 - Responsive UI
 - State Management
 - Optimized Performance
 
-## 🍹 Mojito Landing Page
-- GSAP Animations
-- Framer Motion
-- Smooth Scroll
-- Premium UI
-- Interactive Components
+</details>
 
-## 🛒 E-Commerce Landing Page
+<details>
+<summary><b>🍹 Mojito Landing Page</b></summary>
+
+### Stack
+- React
+- GSAP
+- Framer Motion
+
+### Highlights
+- Smooth Animations
+- Interactive UI
+- Modern Design
+
+</details>
+
+<details>
+<summary><b>🛒 E-Commerce Landing Page</b></summary>
+
+### Highlights
 - Mobile First
 - Reusable Components
 - Responsive Layout
-- Modern UI
 
-## 📋 Kanban Board
+</details>
+
+<details>
+<summary><b>📋 Kanban Board</b></summary>
+
 - Drag & Drop
 - Task Management
-- Modular Design
+- Modular Architecture
 
-## 🌦 Weather Dashboard
-- Live Weather
+</details>
+
+<details>
+<summary><b>🌦 Weather Dashboard</b></summary>
+
 - API Integration
 - Dynamic Rendering
+- Responsive Design
 
-## 🐍 Snake Game
+</details>
+
+<details>
+<summary><b>🐍 Snake Game</b></summary>
+
 - Canvas API
 - JavaScript Logic
 - Score Tracking
 
-## ✅ Todo Application
+</details>
+
+<details>
+<summary><b>✅ Todo Application</b></summary>
+
 - CRUD
 - Local Storage
 - State Management
 
+</details>
+
 ---
 
-# 📚 Current Learning Roadmap
+<details>
+<summary><h2>📚 Learning Roadmap</h2></summary>
 
 ## Frontend
 - HTML
@@ -179,36 +199,47 @@ Currently expanding my expertise across the complete Full Stack ecosystem while 
 - WebSockets
 - System Design
 
+</details>
+
 ---
 
-# 🎓 Professional Learning
+<details>
+<summary><h2>🎓 Professional Learning</h2></summary>
 
-## Sheriyans Coding School
+### Sheriyans Coding School
+
 - Full Stack Development
 - Gen AI
 - DSA Powered Development
 
+</details>
+
 ---
 
-# 🎯 Open To
+<details>
+<summary><h2>🎯 Open To</h2></summary>
 
 - Full Stack Internships
 - Frontend Development Roles
 - Software Engineering Opportunities
 - Open Source Collaboration
 
+</details>
+
 ---
 
-# 💡 Engineering Philosophy
+<details>
+<summary><h2>💡 Engineering Philosophy</h2></summary>
 
-I believe software engineering is more than writing code.
+Software engineering is about:
 
-It's about:
 - Solving real problems
 - Building maintainable systems
 - Writing clean architecture
-- Continuously learning
+- Continuous learning
 - Delivering value
+
+</details>
 
 ---
 
