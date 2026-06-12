@@ -1,196 +1,69 @@
-# MANOJ L
+# Premium README for manojl07
 
-<!-- Premium GitHub README template -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Manoj%20L&fontColor=ffffff&fontSize=52&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=MANOJ%20L&fontAlign=50&fontSize=52&animation=fadeIn&color=gradient"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Products;AI+Enthusiast+%26+Open+Source+Learner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Building+Modern+Web+Experiences;Always+Learning+Always+Shipping"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/MCA-Jain_University-6f42c1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bangalore-India-5e35b1?style=for-the-badge"/>
-<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://github.com/manojl07"><img src="https://img.shields.io/badge/GitHub-manojl07-181717?style=for-the-badge&logo=github"/></a>
 <a href="mailto:manulokesh98@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/></a>
+<img src="https://img.shields.io/badge/Bangalore-India-6f42c1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20Roles-7c3aed?style=for-the-badge"/>
 </p>
 
 ---
 
-# About
+# About Me
 
-Software Engineer focused on modern product engineering, scalable full stack applications, clean architecture, and continuous learning.
+I am **Manoj L**, a Full Stack Developer focused on building responsive, scalable and performant web applications. I enjoy transforming ideas into polished products using modern JavaScript technologies and continuously strengthening my problem-solving skills through DSA.
 
-## Open To
-- Full Stack Development
-- Frontend Engineering
-- Open Source
-- AI-powered applications
+## Tech Stack
 
----
-
-# Tech Stack
-
-| Category | Technologies |
-|---|---|
+| Area | Technologies |
+|------|--------------|
 | Languages | JavaScript, HTML5, CSS3 |
 | Frontend | React, Tailwind CSS, GSAP, Framer Motion |
-| Backend | Node.js, Express.js |
+| Backend | Node.js, Express.js, REST APIs |
 | Databases | MongoDB, MySQL, PostgreSQL |
 | Tools | Git, GitHub, Postman, VS Code |
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| AI Apps | Intermediate | AI integrations |
-| Prompt Engineering | Intermediate | Workflow design |
-| LLM APIs | Learning | Application development |
-| Automation | Intermediate | Productivity systems |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><b>Movie Recommendation App</b></summary>
+<summary><b>ð¬ Movie Recommendation App</b></summary>
 
-| Item | Details |
-|---|---|
-| Stack | React, Tailwind, REST API |
-| Scale | Component Architecture |
-| Performance | Optimized Rendering |
-| Security | API Best Practices |
-| Impact | Dynamic Search Experience |
-| Repository | Add GitHub Link |
-
-Built a responsive recommendation platform with dynamic search and API integration.
-
-</details>
-
-<details>
-<summary><b>Mojito Landing Page</b></summary>
-
-| Item | Details |
-|---|---|
-| Stack | React, GSAP, Framer Motion |
-| Scale | Interactive UI |
-| Performance | Smooth Animations |
-| Security | Client-side |
-| Impact | Premium UX |
-| Repository | Add GitHub Link |
-
-Modern animated landing experience.
-
-</details>
-
-<details>
-<summary><b>E-commerce Landing Page</b></summary>
-
-| Item | Details |
-|---|---|
-| Stack | React, Tailwind |
-| Scale | Modular Components |
-| Performance | Responsive |
-| Security | Client-side |
-| Impact | Mobile-first |
-| Repository | Add GitHub Link |
-
-Reusable UI architecture.
-
-</details>
-
----
-
-# Experience
-
-## Full Stack Developer (Learning & Personal Projects)
-
-**2025-Present**
-
-- Responsive applications
+- React architecture
 - REST API integration
-- Clean architecture
-- DSA practice
+- Dynamic search
+- Responsive UI with Tailwind CSS
 
-**Skills:** React â¢ Node.js â¢ MongoDB â¢ Tailwind
+</details>
 
----
+<details>
+<summary><b>ð¹ Mojito Landing Page</b></summary>
 
-# Achievements
+- GSAP animations
+- Framer Motion
+- Smooth scrolling
+- Premium UI interactions
 
-| Recognition | Details |
-|---|---|
-| DSA | 250+ problems solved |
-| Learning | Full Stack roadmap |
-| UI | Modern animation expertise |
+</details>
 
----
+<details>
+<summary><b>ð E-commerce Landing Page</b></summary>
 
-# Certifications
+- Reusable components
+- Mobile-first layout
+- Responsive design
+- Clean UI architecture
 
-## AWS
-Add Badge
-
-## Oracle
-Add Badge
-
-## Cisco
-Add Badge
-
-## NPTEL
-Add Badge
-
----
-
-# Coding Profiles
-
-- LeetCode
-- GeeksforGeeks
-- HackerRank
-- CodeChef
-
----
-
-# GitHub Analytics
-
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=2&column=4"/>
-</p>
-
----
-
-# Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
-
----
-
-# Contribution Snake
-
-```text
-Replace with:
-https://github.com/Platane/snk
-```
+</details>
 
 ---
 
@@ -199,32 +72,61 @@ https://github.com/Platane/snk
 ```yaml
 Learning:
   - Advanced React
-  - Node.js
+  - Backend Architecture
   - System Design
 
 Building:
-  - Full Stack Products
+  - Full Stack Applications
+  - Portfolio Quality Projects
 
-Exploring:
-  - AI Applications
+Improving:
+  - DSA
+  - Clean Code
+  - Performance
 
-Open To:
-  - Software Engineering Roles
+OpenTo:
+  - Internships
+  - Full Stack Roles
 ```
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manojl07&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojl07&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=manojl07&theme=tokyonight"/>
+</p>
+
+---
+
+# Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojl07&theme=tokyo-night"/>
+</p>
+
+---
+
+# Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=manojl07&theme=algolia&no-frame=true&row=2&column=4"/>
+</p>
 
 ---
 
 # Connect
 
-- Gmail: manulokesh98@gmail.com
-- LinkedIn: https://linkedin.com/
-- GitHub: https://github.com/
-- Portfolio: Add Portfolio URL
+- GitHub: https://github.com/manojl07
+- Email: manulokesh98@gmail.com
 
----
-
-> "Consistency compounds into engineering excellence."
+> **"Consistency beats intensity when building a great engineering career."**
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient"/>
 </p>
