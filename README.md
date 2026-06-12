@@ -125,7 +125,7 @@ Reusable UI architecture.
 
 | Recognition | Details |
 |---|---|
-| DSA | 100+ problems solved |
+| DSA | 250+ problems solved |
 | Learning | Full Stack roadmap |
 | UI | Modern animation expertise |
 
