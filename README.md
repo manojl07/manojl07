@@ -1,132 +1,215 @@
-# Premium README for manojl07
+# 🚀 MANOJ L
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=MANOJ%20L&fontAlign=50&fontSize=52&animation=fadeIn&color=gradient"/>
-</p>
+### Full Stack Developer • JavaScript Engineer • Building Production-Ready Web Applications
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Building+Modern+Web+Experiences;Always+Learning+Always+Shipping"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/manojl07"><img src="https://img.shields.io/badge/GitHub-manojl07-181717?style=for-the-badge&logo=github"/></a>
-<a href="mailto:manulokesh98@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/></a>
-<img src="https://img.shields.io/badge/Bangalore-India-6f42c1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20Roles-7c3aed?style=for-the-badge"/>
-</p>
+> *"Crafting scalable products with clean architecture, performance-first thinking, and exceptional user experiences."*
 
 ---
 
-# About Me
+## 🎯 About
 
-I am **Manoj L**, a Full Stack Developer focused on building responsive, scalable and performant web applications. I enjoy transforming ideas into polished products using modern JavaScript technologies and continuously strengthening my problem-solving skills through DSA.
+I'm **Manoj L**, a Full Stack Developer passionate about building modern web applications that combine beautiful interfaces with scalable backend systems.
 
-## Tech Stack
+My focus is not just writing code—but building products that are:
+
+- Fast
+- Maintainable
+- Secure
+- Scalable
+- User-centric
+
+Currently expanding my expertise across the complete Full Stack ecosystem while continuously improving problem-solving and software engineering fundamentals.
+
+---
+
+# 🌐 Connect
+
+- 📧 Email: **manulokesh98@gmail.com**
+- 🐙 GitHub: **https://github.com/manojl07**
+- 💼 LinkedIn: *(Add your LinkedIn URL)*
+- 🌍 Portfolio: *(Add your Portfolio URL)*
+
+---
+
+# ⚡ Engineering Capabilities
+
+## Frontend
+- HTML5
+- CSS3
+- Tailwind CSS
+- JavaScript (ES6+)
+- React.js
+- GSAP
+- Framer Motion
+- Responsive Design
+- Component Architecture
+
+## Backend
+- Node.js
+- Express.js
+- REST APIs
+- MVC Architecture
+- Middleware
+- Authentication
+- Authorization
+- JWT
+- Cookies
+- Session Management
+
+## Databases
+- MongoDB
+- MySQL
+- PostgreSQL
+
+## Production Features
+- Authentication & Authorization
+- CRUD Operations
+- Search
+- Filter
+- Sort
+- Pagination
+- Debounced Search
+- File Uploads
+- Responsive Design
+- Accessibility Basics
+- Role-Based Access Control
+- Optimized Database Queries
+- Caching
+- Secure APIs
+- Proper Validation
+- Comprehensive Error Handling
+- Logging
+- Testing Critical Flows
+- Environment Variables
+- Deployment
+- Custom Domain & HTTPS
+- Professional Documentation
+- Clean Git History
+
+---
+
+# 🛠 Tech Stack
 
 | Area | Technologies |
 |------|--------------|
 | Languages | JavaScript, HTML5, CSS3 |
 | Frontend | React, Tailwind CSS, GSAP, Framer Motion |
-| Backend | Node.js, Express.js, REST APIs |
+| Backend | Node.js, Express.js |
 | Databases | MongoDB, MySQL, PostgreSQL |
-| Tools | Git, GitHub, Postman, VS Code |
+| Tools | Git, GitHub, VS Code, Postman |
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
-<details>
-<summary><b>ð¬ Movie Recommendation App</b></summary>
+## 🎬 Movie Recommendation Platform
+- React Architecture
+- REST API Integration
+- Dynamic Search
+- Responsive UI
+- State Management
+- Optimized Performance
 
-- React architecture
-- REST API integration
-- Dynamic search
-- Responsive UI with Tailwind CSS
-
-</details>
-
-<details>
-<summary><b>ð¹ Mojito Landing Page</b></summary>
-
-- GSAP animations
+## 🍹 Mojito Landing Page
+- GSAP Animations
 - Framer Motion
-- Smooth scrolling
-- Premium UI interactions
+- Smooth Scroll
+- Premium UI
+- Interactive Components
 
-</details>
+## 🛒 E-Commerce Landing Page
+- Mobile First
+- Reusable Components
+- Responsive Layout
+- Modern UI
 
-<details>
-<summary><b>ð E-commerce Landing Page</b></summary>
+## 📋 Kanban Board
+- Drag & Drop
+- Task Management
+- Modular Design
 
-- Reusable components
-- Mobile-first layout
-- Responsive design
-- Clean UI architecture
+## 🌦 Weather Dashboard
+- Live Weather
+- API Integration
+- Dynamic Rendering
 
-</details>
+## 🐍 Snake Game
+- Canvas API
+- JavaScript Logic
+- Score Tracking
 
----
-
-# Current Focus
-
-```yaml
-Learning:
-  - Advanced React
-  - Backend Architecture
-  - System Design
-
-Building:
-  - Full Stack Applications
-  - Portfolio Quality Projects
-
-Improving:
-  - DSA
-  - Clean Code
-  - Performance
-
-OpenTo:
-  - Internships
-  - Full Stack Roles
-```
+## ✅ Todo Application
+- CRUD
+- Local Storage
+- State Management
 
 ---
 
-# GitHub Analytics
+# 📚 Current Learning Roadmap
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manojl07&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojl07&layout=compact&theme=tokyonight"/>
-</p>
+## Frontend
+- HTML
+- CSS
+- Tailwind CSS
+- JavaScript
+- React
+- GSAP
+- Framer Motion
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=manojl07&theme=tokyonight"/>
-</p>
+## Backend
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- PostgreSQL
+
+## Engineering
+- Authentication
+- Authorization
+- Search
+- Filter
+- Sort
+- Pagination
+- Caching
+- Performance Optimization
+- Deployment
+
+## Exploring Next
+- Next.js
+- WebSockets
+- System Design
 
 ---
 
-# Activity Graph
+# 🎓 Professional Learning
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojl07&theme=tokyo-night"/>
-</p>
-
----
-
-# Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=manojl07&theme=algolia&no-frame=true&row=2&column=4"/>
-</p>
+## Sheriyans Coding School
+- Full Stack Development
+- Gen AI
+- DSA Powered Development
 
 ---
 
-# Connect
+# 🎯 Open To
 
-- GitHub: https://github.com/manojl07
-- Email: manulokesh98@gmail.com
+- Full Stack Internships
+- Frontend Development Roles
+- Software Engineering Opportunities
+- Open Source Collaboration
 
-> **"Consistency beats intensity when building a great engineering career."**
+---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient"/>
-</p>
+# 💡 Engineering Philosophy
+
+I believe software engineering is more than writing code.
+
+It's about:
+- Solving real problems
+- Building maintainable systems
+- Writing clean architecture
+- Continuously learning
+- Delivering value
+
+---
+
+> **Consistency compounds into engineering excellence.**
