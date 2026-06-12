@@ -18,7 +18,7 @@ I'm **Manoj L**, a Full Stack Developer passionate about building modern web app
 - 🌍 Portfolio: *(Add your Portfolio URL)*
 
 ---
-
+<h2>🛠 Tech Stack</h2>
 <details>
 <summary><h2>🛠 Tech Stack</h2></summary>
 
